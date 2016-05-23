@@ -7,7 +7,7 @@ running Terraform for you, Atlas has built-in ACLs, secure variable storage, and
 UIs for visualizing infrastructure. Atlas is also able to integrate with GitHub
 to provide first-class provenance in the system.
 
-
+x
 
 Remote State Setup
 ------------------
